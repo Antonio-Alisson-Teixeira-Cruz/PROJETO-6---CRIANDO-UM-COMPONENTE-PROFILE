@@ -1,3 +1,5 @@
+import "./style.css";
+
 export default function Profile({nome, idade, profissao, foto}) {
     return(
         <>
