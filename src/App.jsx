@@ -11,7 +11,7 @@ export default function App() {
     />
 
     <Profile 
-      nome="Samuel Sanchez"
+      nome="Samuel Patrício"
       idade="23"
       profissao="Designer"
       foto="https://avatars.githubusercontent.com/u/75997295?v=4"
