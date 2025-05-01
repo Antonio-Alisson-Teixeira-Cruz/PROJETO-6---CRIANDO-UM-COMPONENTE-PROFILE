@@ -21,6 +21,7 @@
 .photoText {
   color: #361d00;
   display: inline;
+  vertical-align: top;
 }
 
 .photo {
