@@ -20,10 +20,10 @@
 
 .photoText {
   color: #361d00;
+  font-size: 30px;
   display: inline;
   vertical-align: top;
 }
-
 .photo {
   display: inline;
   heigth: 200px;
