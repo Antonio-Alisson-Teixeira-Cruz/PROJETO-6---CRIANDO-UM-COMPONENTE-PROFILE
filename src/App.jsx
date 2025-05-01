@@ -18,7 +18,7 @@ export default function App() {
       />
 
     <Profile 
-      nome="Beatryz Curgel"
+      nome="Beatryz Gurgel"
       idade="18"
       profissao="Desenvolvedora Front-end"
       foto="https://avatars.githubusercontent.com/u/178110174?v=4"
