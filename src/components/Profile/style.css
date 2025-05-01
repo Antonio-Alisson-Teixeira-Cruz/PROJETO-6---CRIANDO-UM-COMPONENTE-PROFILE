@@ -1,8 +1,25 @@
 * {
   background-color: bisque;
+  font-family: sans-serif;
 }
 
 .photo {
+  display: inline-block;
   heigth: 100px;
   width: 100px;
+}
+
+.name {
+  color: #361d00;
+  font-size: 40px;
+}
+
+.age {
+  color: #361d00;
+  font-size: 30px;
+}
+
+.profession {
+  color: #361d00;
+  font-size: 30px;
 }
